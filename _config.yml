@@ -1,17 +1,17 @@
 title: GYUH2
 description: >-
-  Build your own portfolio <br>
-  with Hyde.
-url: "https://chemistryx.me"
-github: ChemistryX
-email: changeme@chemistryx.me
+  임규희 <br>
+  Backend Developer.
+url: "https://gyuh2.github.io/"
+github: gyuh2
+email: rbgmlrbfl@naver.com
 google_analytics: <YOUR UA TOKEN>
 
 exclude: [README.md, Gemfile, Gemfile.lock]
 
 comments:
   enabled: true
-  repo: ChemistryX/hyde-comments
+  repo: gyuh2/hyde-comments
   issue-term: pathname
 
 collections:
